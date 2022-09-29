@@ -1,0 +1,8 @@
+.Header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #0e3c7e;
+  font-family: "Courier New", Courier;
+  color-scheme: black;
+}
